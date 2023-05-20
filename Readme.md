@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishika jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika jain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishika-jain-2163b51ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika-jain-2163b51ab" height="30" width="40" /></a>
 <a href="https://instagram.com/ishika.08__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishika.08__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ishika_jain2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishika_jain2020" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishika_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishika_08" height="30" width="40" /></a>
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika08jain&show_icons=true&locale=en" alt="ishika08jain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishika08jain&" alt="ishika08jain" /></p>
-
