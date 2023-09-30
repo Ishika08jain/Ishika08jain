@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jainishika578@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/131FgK2t5_CgA8mj31RHX48KiTmY7Zwgt/view?usp=sharing](https://drive.google.com/file/d/131FgK2t5_CgA8mj31RHX48KiTmY7Zwgt/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/131FgK2t5_CgA8mj31RHX48KiTmY7Zwgt/view?usp=sharing](https://drive.google.com/file/d/1yqv6rylZx8EUKiNcO32-18Hyocu-DLiX/view)](https://drive.google.com/file/d/1yqv6rylZx8EUKiNcO32-18Hyocu-DLiX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
